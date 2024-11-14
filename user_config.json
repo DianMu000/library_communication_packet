@@ -1,0 +1,20 @@
+{
+    "head" : {
+        "?name" : "注释：数据帧段的名字",
+        "name" : "head",
+        "?type" : "注释：数据帧段作用的类型 成员:search, confirm, order, data, cheack, 类型为字符串, 值要加上双引号",
+        "type" :  "search",
+        "?lehgth" : "注释：数据帧的 头 的段的长度。成员:8, 16, 32, 64 ",
+        "lehgth" : 8
+    },
+
+    "cheak" : {
+        "?name" : "注释：数据帧段的名字",
+        "name" : "head",
+        "?type" : "注释：数据帧段作用的类型 成员:search, confirm, order, data, cheack, 类型为字符串, 值要加上双引号",
+        "type" :  "search",
+        "?lehgth" : "注释：数据帧的 头 的段的长度。成员:8, 16, 32, 64 ",
+        "lehgth" : 8
+    }
+
+}

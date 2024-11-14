@@ -1,0 +1,5 @@
+D:/0Code/git/self/library_communication_packet_code_generator/build/CMakeFiles/edit_cache.dir
+D:/0Code/git/self/library_communication_packet_code_generator/build/CMakeFiles/rebuild_cache.dir
+D:/0Code/git/self/library_communication_packet_code_generator/build/src/CMakeFiles/code_generator.dir
+D:/0Code/git/self/library_communication_packet_code_generator/build/src/CMakeFiles/edit_cache.dir
+D:/0Code/git/self/library_communication_packet_code_generator/build/src/CMakeFiles/rebuild_cache.dir
