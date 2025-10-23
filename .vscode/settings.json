@@ -1,4 +1,9 @@
 {
     "commentTranslate.hover.enabled": false,
-    "cmake.ignoreCMakeListsMissing": true
+    "cmake.ignoreCMakeListsMissing": true,
+    "files.associations": {
+        "template_buffer_processing.h": "c",
+        "limits": "c"
+    }
+    
 }

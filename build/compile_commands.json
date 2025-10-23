@@ -1,0 +1,20 @@
+[
+{
+  "directory": "D:/0Code/git/self/library_communication_packet_code_generator/build/src",
+  "command": "C:\\MinGWw64\\bin\\gcc.exe   -g -o CMakeFiles\\code_generator.dir\\cJSON.c.obj -c D:\\0Code\\git\\self\\library_communication_packet_code_generator\\src\\cJSON.c",
+  "file": "D:/0Code/git/self/library_communication_packet_code_generator/src/cJSON.c",
+  "output": "src/CMakeFiles/code_generator.dir/cJSON.c.obj"
+},
+{
+  "directory": "D:/0Code/git/self/library_communication_packet_code_generator/build/src",
+  "command": "C:\\MinGWw64\\bin\\gcc.exe   -g -o CMakeFiles\\code_generator.dir\\json_processing.c.obj -c D:\\0Code\\git\\self\\library_communication_packet_code_generator\\src\\json_processing.c",
+  "file": "D:/0Code/git/self/library_communication_packet_code_generator/src/json_processing.c",
+  "output": "src/CMakeFiles/code_generator.dir/json_processing.c.obj"
+},
+{
+  "directory": "D:/0Code/git/self/library_communication_packet_code_generator/build/src",
+  "command": "C:\\MinGWw64\\bin\\gcc.exe   -g -o CMakeFiles\\code_generator.dir\\program.c.obj -c D:\\0Code\\git\\self\\library_communication_packet_code_generator\\src\\program.c",
+  "file": "D:/0Code/git/self/library_communication_packet_code_generator/src/program.c",
+  "output": "src/CMakeFiles/code_generator.dir/program.c.obj"
+}
+]

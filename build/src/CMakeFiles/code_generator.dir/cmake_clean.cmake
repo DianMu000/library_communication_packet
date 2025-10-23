@@ -5,10 +5,10 @@ file(REMOVE_RECURSE
   "CMakeFiles/code_generator.dir/json_processing.c.obj.d"
   "CMakeFiles/code_generator.dir/program.c.obj"
   "CMakeFiles/code_generator.dir/program.c.obj.d"
-  "D:/0Code/git/self/library_communication_packet_code_generator/code_generator.exe"
-  "D:/0Code/git/self/library_communication_packet_code_generator/code_generator.exe.manifest"
-  "D:/0Code/git/self/library_communication_packet_code_generator/code_generator.pdb"
-  "D:/0Code/git/self/library_communication_packet_code_generator/libcode_generator.dll.a"
+  "D:/0Code/git/self/library_communication_packet_code_generator/bin/code_generator.exe"
+  "D:/0Code/git/self/library_communication_packet_code_generator/bin/code_generator.exe.manifest"
+  "D:/0Code/git/self/library_communication_packet_code_generator/bin/code_generator.pdb"
+  "D:/0Code/git/self/library_communication_packet_code_generator/bin/libcode_generator.dll.a"
 )
 
 # Per-language clean rules from dependency scanning.
